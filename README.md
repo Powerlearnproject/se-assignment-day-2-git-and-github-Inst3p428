@@ -4,7 +4,7 @@
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 Concepts
 Repositories-A central location where all versions of a project's files are stored. 
-Commits-napshots or milestones along the timeline of a Git project.
+Commits-Snapshots or milestones along the timeline of a Git project.
 Branch-A separate line of development created from the main codebase, allowing parallel work on different features. 
 Merge-Combining changes from different branches back into the main codebase. 
 GitHub is a cloud-bsed platform where developers can store and manage git repositories, GitHub stores the version online to share, collborate and allows backing up safely.
